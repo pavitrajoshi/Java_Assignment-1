@@ -14,13 +14,13 @@ c) If found, then print success message
 d) Otherwise throw an exception SubStringNotFoundException with appropriate message
 
 Program4.java :
-: Write a Java program to perform the following operations:
+ Write a Java program to perform the following operations:
 a) Create a file named Alphabets.txt and insert appropriate data into it
 b) Read the file and copy all the consonants into another file named Consonants.txt
 c) If vowel is encountered, throw an exception VowelNotAllowedException and continue until end of file
 
 Program5.java :
-: Write a Java program to implement the following scenario:
+ Write a Java program to implement the following scenario:
 a) Create a file named Integers.txt and insert n-random integers into it
 b) Create three threads T1, T2 and T3 that read n/3 integers in sequence of occurrence of
 numbers from the file and sort the read n/3 integers
